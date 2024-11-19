@@ -2,7 +2,7 @@
 
 internal class Program
 {/// <summary>
-/// Programa que donat un numero per teclat demana altres numeros per compararlos i acabar el programa.
+/// Programa que donat un numero per teclat demana altres numeros per compararlos i acabar el progr
 /// </summary>
 /// <param name="args"></param>
     public static void Main(string[] args)
@@ -17,7 +17,7 @@ internal class Program
             valor2= int.Parse(Console.ReadLine());
             valorsIguals = valor1 == valor2;
         }
-        if(valorsIguals)Console.WriteLine("Valors igual introduit.. fi del programa");
+        if(valorsIguals)Console.WriteLine("Valors igual repetit.. fi del programa");
         else Console.WriteLine("Has introduit -9999 acabant el programa...");
     }
 }
