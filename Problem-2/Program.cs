@@ -16,10 +16,7 @@ internal class Program
             contador++;
             valor = int.Parse(linea);
             linea = numerosTxt.ReadLine();
-            if(valor %2 ==0)
-            {
-                esParell = true;
-            }
+            if(valor % 2 == 0) esParell = true;
         }
         if(esParell) Console.WriteLine($"Numero parell trobat a la linea {contador}");
         else Console.WriteLine("Cap numero es parell");
