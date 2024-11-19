@@ -1,0 +1,15 @@
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\bin\Debug\net8.0\Problem-2B.exe
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\bin\Debug\net8.0\Problem-2B.deps.json
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\bin\Debug\net8.0\Problem-2B.runtimeconfig.json
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\bin\Debug\net8.0\Problem-2B.dll
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\bin\Debug\net8.0\Problem-2B.pdb
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\obj\Debug\net8.0\Problem-2B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\obj\Debug\net8.0\Problem-2B.AssemblyInfoInputs.cache
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\obj\Debug\net8.0\Problem-2B.AssemblyInfo.cs
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\obj\Debug\net8.0\Problem-2B.csproj.CoreCompileInputs.cache
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\obj\Debug\net8.0\Problem-2B.sourcelink.json
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\obj\Debug\net8.0\Problem-2B.dll
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\obj\Debug\net8.0\refint\Problem-2B.dll
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\obj\Debug\net8.0\Problem-2B.pdb
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\obj\Debug\net8.0\Problem-2B.genruntimeconfig.cache
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2B\obj\Debug\net8.0\ref\Problem-2B.dll

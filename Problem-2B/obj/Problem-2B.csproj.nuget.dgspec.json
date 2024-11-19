@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-1B\\Problem-1B.csproj": {}
+    "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-2B\\Problem-2B.csproj": {}
   },
   "projects": {
-    "c:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-1B\\Problem-1B.csproj": {
+    "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-2B\\Problem-2B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-1B\\Problem-1B.csproj",
-        "projectName": "Problem-1B",
-        "projectPath": "c:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-1B\\Problem-1B.csproj",
+        "projectUniqueName": "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-2B\\Problem-2B.csproj",
+        "projectName": "Problem-2B",
+        "projectPath": "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-2B\\Problem-2B.csproj",
         "packagesPath": "C:\\Users\\danic\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-1B\\obj\\",
+        "outputPath": "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-2B\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danic\\AppData\\Roaming\\NuGet\\NuGet.Config",
