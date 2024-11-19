@@ -1,0 +1,15 @@
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\bin\Debug\net8.0\Problem-2.exe
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\bin\Debug\net8.0\Problem-2.deps.json
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\bin\Debug\net8.0\Problem-2.runtimeconfig.json
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\bin\Debug\net8.0\Problem-2.dll
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\bin\Debug\net8.0\Problem-2.pdb
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\obj\Debug\net8.0\Problem-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\obj\Debug\net8.0\Problem-2.AssemblyInfoInputs.cache
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\obj\Debug\net8.0\Problem-2.AssemblyInfo.cs
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\obj\Debug\net8.0\Problem-2.csproj.CoreCompileInputs.cache
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\obj\Debug\net8.0\Problem-2.sourcelink.json
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\obj\Debug\net8.0\Problem-2.dll
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\obj\Debug\net8.0\refint\Problem-2.dll
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\obj\Debug\net8.0\Problem-2.pdb
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\obj\Debug\net8.0\Problem-2.genruntimeconfig.cache
+C:\Users\danic\Desktop\DAM - 24-25\Programació\A1.7-Composicio-Iterativa-Cerques\Problem-2\obj\Debug\net8.0\ref\Problem-2.dll
