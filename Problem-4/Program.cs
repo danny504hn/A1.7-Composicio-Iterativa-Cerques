@@ -11,9 +11,13 @@ internal class Program
         while (contador <= num/2)
         {
             contador++;
-            if (num % contador == 0) suma += contador;
+            if (num % contador == 0) 
+            {
+            suma += contador;
+            Console.WriteLine($"{suma}  {contador}");
+            }
         }
-        if (num == suma) { Console.WriteLine("Es perfecte"); }
+        if (num == suma) Console.WriteLine("Es perfecte");
         else Console.WriteLine("No es perfecte");
     }
 }
