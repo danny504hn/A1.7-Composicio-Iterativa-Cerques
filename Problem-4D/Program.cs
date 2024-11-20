@@ -8,18 +8,18 @@ internal class Program
         StreamReader perfectesTxt = new StreamReader(PERFECTE);
         string linea = perfectesTxt.ReadLine();
         int valor;
-        bool esPerf = false;
-        while (!(esPerf||linea == null))
+        bool trobat = false;
+        while (!(trobat || linea == null))
         {
             valor = int.Parse(linea);
-            esPerf = EsPerfecte(valor);
-            if(esPerf) esPerf = true;
-            else linea = perfectesTxt.ReadLine();       
+            bool esPerf = EsPerfecte(valor);
+            if (esPerf) trobat = true;
+            else linea = perfectesTxt.ReadLine();
         }
-        if(esPerf) Console.WriteLine("Hi ha un valor perfecte");
+        if (trobat) Console.WriteLine("Hi ha un valor perfecte");
         else Console.WriteLine("No hi ha cap valor perfecte");
-    }   
-    
+    }
+
     public static bool EsPerfecte(int n)
     {
         int suma = 0;
