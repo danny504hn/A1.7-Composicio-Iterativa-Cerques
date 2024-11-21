@@ -8,11 +8,12 @@ internal class Program
         StreamReader perfectesTxt = new StreamReader(PERFECTE);
         string linea = perfectesTxt.ReadLine();
         int valor;
+        bool esPerf = false;
         bool trobat = false;
         while (!(trobat || linea == null))
         {
             valor = int.Parse(linea);
-            bool esPerf = EsPerfecte(valor);
+            esPerf = EsPerfecte(valor);
             if (esPerf) trobat = true;
             else linea = perfectesTxt.ReadLine();
         }
@@ -22,9 +23,10 @@ internal class Program
 
     public static bool EsPerfecte(int n)
     {
+        int divisorMaxim = n / 2;
         int suma = 0;
         int contador = 0;
-        while (contador < n / 2)
+        while (contador < divisorMaxim && suma < n)
         {
             contador++;
             if (n % contador == 0) suma += contador;
