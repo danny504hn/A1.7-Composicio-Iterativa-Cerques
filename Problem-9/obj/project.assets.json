@@ -1,6 +1,7 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< HEAD
     "net7.0": {}
   },
   "libraries": {},
@@ -9,10 +10,21 @@
   },
   "packageFolders": {
     "C:\\Users\\Danny\\.nuget\\packages\\": {}
+=======
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\danic\\.nuget\\packages\\": {}
+>>>>>>> 218f099b898d08b49f49729d2a90c05e0f87be8f
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
       "projectName": "Problem-9",
       "projectPath": "C:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
@@ -28,6 +40,28 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+=======
+      "projectUniqueName": "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
+      "projectName": "Problem-9",
+      "projectPath": "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
+      "packagesPath": "C:\\Users\\danic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\danic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+>>>>>>> 218f099b898d08b49f49729d2a90c05e0f87be8f
           "projectReferences": {}
         }
       },
@@ -35,11 +69,24 @@
         "warnAsError": [
           "NU1605"
         ]
+<<<<<<< HEAD
       }
     },
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+=======
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+>>>>>>> 218f099b898d08b49f49729d2a90c05e0f87be8f
         "imports": [
           "net461",
           "net462",
@@ -56,7 +103,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 218f099b898d08b49f49729d2a90c05e0f87be8f
       }
     }
   }

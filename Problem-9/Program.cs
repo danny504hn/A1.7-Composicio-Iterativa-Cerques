@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System.Security.Cryptography.X509Certificates;
 
 internal class Program
@@ -44,5 +45,14 @@ internal class Program
         if(trobat) Console.WriteLine("Compra rebutjada");
         else if(pAmbColesterol == 1)Console.WriteLine($"Compra rica en colesterol {pColesterol}, preu {importFinal:F2}");
         else Console.WriteLine($"COMPRA SANA, preu total {importFinal:F2}");
+=======
+﻿using System;
+
+internal class Program
+{
+    public static void Main(string[] args)
+    {
+               
+>>>>>>> 218f099b898d08b49f49729d2a90c05e0f87be8f
     }
 }
