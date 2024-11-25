@@ -5,7 +5,6 @@
         const string FILE = "COMPLEIX.txt";
         StreamReader file = new StreamReader(FILE);
 
-
         string linea = file.ReadLine();
         int suma = int.Parse(file.ReadLine());
 
@@ -23,9 +22,6 @@
             }
             else
             trobat = valor != suma;
-             
-
-            
         }
         if (trobat) Console.WriteLine("NO");
         else Console.WriteLine("SI");
