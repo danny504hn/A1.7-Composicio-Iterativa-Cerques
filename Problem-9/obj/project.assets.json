@@ -8,23 +8,28 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Danny\\.nuget\\packages\\": {}
+    "C:\\Users\\danic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
+      "projectUniqueName": "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
       "projectName": "Problem-9",
-      "projectPath": "C:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
-      "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\obj\\",
+      "projectPath": "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
+      "packagesPath": "C:\\Users\\danic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\danic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
@@ -35,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -51,12 +61,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

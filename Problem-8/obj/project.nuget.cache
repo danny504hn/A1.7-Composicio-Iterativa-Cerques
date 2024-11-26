@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZlgqImV0YM0JfCkzTIr6X2p1MpRETt4pIkknePkX7EIij8z1qf24p3D4ajLKbaAKbn2UCixdHchRRXX+0RtLJg==",
+  "dgSpecHash": "QEHR8P8U6LM=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-8\\Problem-8.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-8\\Problem-8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danic\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\danic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\danic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\danic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
