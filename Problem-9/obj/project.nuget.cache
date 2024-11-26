@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "olU31xGiA5RdCW5hduwaN6K37FP1EegRQ6OANvX1M0pNFcHxMovLH4UvJh0plSB1nnXGosbyzKNoDSAUPfNz0Q==",
-  "success": true,
-  "projectFilePath": "c:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
-=======
   "dgSpecHash": "A7ulO7vkW4c=",
   "success": true,
   "projectFilePath": "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
->>>>>>> 218f099b898d08b49f49729d2a90c05e0f87be8f
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

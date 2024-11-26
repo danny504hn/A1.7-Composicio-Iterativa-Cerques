@@ -1,29 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "c:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj": {}
-  },
-  "projects": {
-    "c:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "c:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
-        "projectName": "Problem-9",
-        "projectPath": "c:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj",
-        "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Danny\\Desktop\\C#\\YO\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-=======
     "C:\\Users\\danic\\Desktop\\DAM - 24-25\\Programació\\A1.7-Composicio-Iterativa-Cerques\\Problem-9\\Problem-9.csproj": {}
   },
   "projects": {
@@ -50,7 +27,6 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
->>>>>>> 218f099b898d08b49f49729d2a90c05e0f87be8f
             "projectReferences": {}
           }
         },
@@ -58,13 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-<<<<<<< HEAD
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-=======
         },
         "restoreAuditProperties": {
           "enableAudit": "true",
@@ -75,7 +44,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
->>>>>>> 218f099b898d08b49f49729d2a90c05e0f87be8f
           "imports": [
             "net461",
             "net462",
@@ -92,11 +60,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
->>>>>>> 218f099b898d08b49f49729d2a90c05e0f87be8f
         }
       }
     }
