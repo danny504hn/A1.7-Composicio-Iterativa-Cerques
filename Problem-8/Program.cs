@@ -4,13 +4,12 @@
     {
         const string FILE = "COMPLEIX.txt";
         StreamReader file = new StreamReader(FILE);
-
-
-        string linea = file.ReadLine();
         int suma = int.Parse(file.ReadLine());
+        string linea = file.ReadLine();
+
 
         int valor = 0;
-        bool trobat = false; 
+        bool trobat = false;
 
         while (!trobat && linea != null)
         {
@@ -18,14 +17,11 @@
 
             if (valor == suma)
             {
-                linea = file.ReadLine(); 
+                linea = file.ReadLine();
                 suma += valor;
             }
             else
-            trobat = valor != suma;
-             
-
-            
+                trobat = true;
         }
         if (trobat) Console.WriteLine("NO");
         else Console.WriteLine("SI");

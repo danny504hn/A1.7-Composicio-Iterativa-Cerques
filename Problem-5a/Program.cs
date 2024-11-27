@@ -4,22 +4,19 @@ internal class Program
 {
     public static void Main(string[] args)
     {
-        double numero;
-        double divisors = 2;
+        int numero;
+        int divisors = 2;
         bool esPrimer = true;
         Console.Write("Introdueix un numero --> ");
-        numero = double.Parse(Console.ReadLine());
-        if (numero <= 1) esPrimer = true;
-        else
+        numero = int.Parse(Console.ReadLine());
+
+        while (divisors <= Math.Sqrt(numero))
         {
-            while (divisors <= Math.Sqrt(numero))
+            if (numero % divisors == 0)
             {
-                if (numero % divisors == 0)
-                {
-                    esPrimer = false;
-                }
-                divisors++;
+                esPrimer = false;
             }
+            divisors++;
         }
         if (esPrimer) Console.WriteLine("Es primer");
         else Console.WriteLine("no es primer");
